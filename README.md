@@ -24,12 +24,12 @@ npm install --save-dev @savvy-css/box-object-patterns
 ## Usage
 
 
-[npm-badge]: https://img.shields.io/npm/v/@savvy-css/@savvy-css/box-object-patterns.svg
-[npm-badge-url]: https://www.npmjs.com/package/@savvy-css/@savvy-css/box-object-patterns
-[license-badge]: https://img.shields.io/npm/l/@savvy-css/@savvy-css/box-object-patterns.svg
+[npm-badge]: https://img.shields.io/npm/v/@savvy-css/box-object-patterns.svg
+[npm-badge-url]: https://www.npmjs.com/package/@savvy-css/box-object-patterns
+[license-badge]: https://img.shields.io/npm/l/@savvy-css/box-object-patterns.svg
 [license-badge-url]: LICENSE
-[dependencies-badge]: https://img.shields.io/david/savvy-css/@savvy-css/box-object-patterns.svg
-[dependencies-badge-url]: https://david-dm.org/savvy-css/@savvy-css/box-object-patterns
-[devDependencies-badge]: https://img.shields.io/david/dev/savvy-css/@savvy-css/box-object-patterns.svg
-[devDependencies-badge-url]: https://david-dm.org/savvy-css/@savvy-css/box-object-patterns#info=devDependencies
+[dependencies-badge]: https://img.shields.io/david/savvy-css/box-object-patterns.svg
+[dependencies-badge-url]: https://david-dm.org/savvy-css/box-object-patterns
+[devDependencies-badge]: https://img.shields.io/david/dev/savvy-css/box-object-patterns.svg
+[devDependencies-badge-url]: https://david-dm.org/savvy-css/box-object-patterns#info=devDependencies
 
