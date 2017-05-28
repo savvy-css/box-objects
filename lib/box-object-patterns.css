@@ -1,1 +1,79 @@
 /* @define box-object-patterns */
+
+@import "@savvy-css/spacing-variables";
+
+.o-box > :last-child {
+  margin-bottom: 0;
+}
+
+.o-box.o-box--flush {
+  padding: 0;
+}
+
+/* ---- BOXES WITH INSET SPACING ------ */
+
+.o-box.o-box--inset-xs {
+  padding: var(--spacing-inset-xs);
+}
+
+.o-box.o-box--inset-sm {
+  padding: var(--spacing-inset-sm);
+}
+
+.o-box.o-box--inset-md {
+  padding: var(--spacing-inset-md);
+}
+
+.o-box.o-box--inset-lg {
+  padding: var(--spacing-inset-lg);
+}
+
+.o-box.o-box--inset-xl {
+  padding: var(--spacing-inset-xl);
+}
+
+/* ---- BOXES WITH INSET SQUISH SPACING ------ */
+
+.o-box.o-box--inset-squish-sm {
+  padding: var(--spacing-inset-squish-sm);
+}
+
+.o-box.o-box--inset-squish-md {
+  padding: var(--spacing-inset-squish-md);
+}
+
+.o-box.o-box--inset-squish-lg {
+  padding: var(--spacing-inset-squish-lg);
+}
+
+/* ---- BOXES WITH INSET STRETCH SPACING ------ */
+
+.o-box.o-box--inset-stretch-sm {
+  padding: var(--spacing-inset-stretch-sm);
+}
+
+.o-box.o-box--inset-stretch-md {
+  padding: var(--spacing-inset-stretch-md);
+}
+
+/* ---- STACKED BOXES ------ */
+
+.o-box.o-box--stacked-xs {
+  padding: var(--spacing-stack-xs);
+}
+
+.o-box.o-box--stacked-sm {
+  padding: var(--spacing-stack-sm);
+}
+
+.o-box.o-box--stacked-md {
+  padding: var(--spacing-stack-md);
+}
+
+.o-box.o-box--stacked-lg {
+  padding: var(--spacing-stack-lg);
+}
+
+.o-box.o-box--stacked-xl {
+  padding: var(--spacing-stack-xl);
+}
