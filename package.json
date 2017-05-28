@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/box-object-patterns",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Box object patterns for Savvy CSS.",
   "main": "build/box-object-patterns.css",
   "style": "build/box-object-patterns.css",
